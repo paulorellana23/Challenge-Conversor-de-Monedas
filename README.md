@@ -5,12 +5,6 @@ Conversor Divisas proyecto Java
 
 Este proyecto proporciona una utilidad para convertir valores entre diferentes divisas utilizando tasas de cambio en tiempo real.
 
-## Uso
-
-1. Clona este repositorio.
-2. Ejecuta la clase `RealizarConversion` desde tu IDE o mediante la línea de comandos.
-3. Sigue las instrucciones para ingresar las iniciales de la divisa original, la divisa a la cual deseas convertir y el valor a convertir.
-
 ## Opciones de Divisa
 
 - **USD**: Dólar Americano
