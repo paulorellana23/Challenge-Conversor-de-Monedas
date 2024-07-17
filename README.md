@@ -24,9 +24,4 @@ Este proyecto proporciona una utilidad para convertir valores entre diferentes d
 Este proyecto utiliza la API de ExchangeRate-API para obtener tasas de cambio actualizadas. Asegúrate de tener una conexión a Internet activa para que funcione correctamente.
 
 ## Autor
-    Dev: Johan rodriguez
-    GitHub: @Johanlex20
-
-## Contribuciones
-
-Si deseas contribuir a este proyecto, ¡siéntete libre de hacer un fork y enviar tus pull requests!
+    Dev: Pool M. Orellana
